@@ -1,0 +1,26 @@
+body {
+    margin: 30 px;
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+.avatar {
+    width: 150px;
+    padding: 10px;
+    background: #ffc300;
+    border-radius: 8px; 
+}
+
+.card {
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background: #ffd60a; 
+    color: #001d3d; 
+    border-bottom: thick double #001d3d;
+    border-radius: 8px; 
+    box-shadow: 10px 10px 5px #003566;
+    
+}
